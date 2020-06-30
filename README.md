@@ -1,9 +1,9 @@
 # TSPWM
 **TSPWM** is an X11 window manager based on [TinyWM](https://github.com/mackstann/tinywm) by [Nick Welch](https://github.com/mackstann). TinyWM was originally written in C, and has been ported to C++ for this project. The intent of this window manager project is largely to expand my understanding of the X11 libraries _and_ to finally learn some C++.
 
-Development and testing is being done in a Debian 10.4.0 virtual machine.
+Development and testing is being done in a Debian 10.4.0 virtual machine. TSPWM is my second attempt to extending TinyWM (my first attempt was [BiscuitWM](https://github.com/csiew/BiscuitWM)).
 
-TSPWM is my second attempt to extending TinyWM (my first attempt was [BiscuitWM](https://github.com/csiew/BiscuitWM)).
+The '_TSP_' in 'TSPWM' is an abbreviation of '[_tau sar piah_](https://www.google.com/search?q=tau+sar+piah&oq=tau+sa&aqs=chrome.1.69i57j0l6.2832j1j7&sourceid=chrome&ie=UTF-8)', my favourite biscuit native to my home state of Penang, in Malaysia.
 
 ## Install guide
 Before running TSPWM, you must have the `libx11-dev` and `libxcursor-dev` libraries installed. To do so, install these libraries' packages via your Linux distribution's package manager.
