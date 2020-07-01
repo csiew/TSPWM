@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=BiscuitWM session
+Name=TSPWM session
 Comment=Delicious window manager
-Exec=biscuitwm-session
+Exec=tspwm-session
 Terminal=False
-TryExec=biscuitwm
+TryExec=tspwm
 Type=Application
 
 [Window Manager]
